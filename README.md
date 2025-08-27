@@ -1,9 +1,11 @@
-# Data-Scientist
+# EMMANUEL Adusu
+
 Certified Data Science, Data Analytics &amp; Machine Learning Professional
-Data Analyst Portfolio
+
+
 Hello! 👋 I'm Emmanuel Adusu, a data analyst with a passion for transforming complex datasets into clear, actionable insights. With a solid foundation in data cleaning, exploratory data analysis, and visualization, I am skilled at using data to tell a compelling story and drive business decisions.
 
-I am proficient in [Your Primary Tool, e.g., SQL, Power BI, Python, R], and my work focuses on [Mention your area of interest, e.g., financial data, marketing analytics, business intelligence]. This portfolio showcases a selection of my projects where I have applied my skills to solve real-world problems.
+I am proficient in SQL, Power BI, Python, Tableau, and my work focuses on financial data, marketing analytics, business intelligence. This portfolio showcases a selection of my projects where I have applied my skills to solve real-world problems.
 
 Skills & Tools
 Programming: Python (Pandas, NumPy, Matplotlib, Seaborn), SQL
